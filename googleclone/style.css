@@ -1,0 +1,167 @@
+.google {
+    
+    width: 275px;
+    margin: auto;
+    margin-top: 150px;
+    
+    }
+    
+.navbar {
+    
+    height: 30px;
+    width: 290px;
+    margin-left: 920px;
+    margin-top: 15px;
+    text-align: left;
+    word-spacing: 20px;
+    position: relative;
+    padding-top: 10px;
+    text-decoration: none;
+    
+    
+}    
+
+.signin {
+    
+    Height: 30px;
+    width: 65px;
+    left:auto;
+    top: 0px;
+    right: 0px;
+    position: absolute;
+    float: right;
+    float: top;
+    color: white;
+    background-color: #4285f4;
+    padding-top: 10px;
+    padding-left:15px;
+    word-spacing: normal;
+    border-radius: 6px;
+    
+
+    
+    
+    
+    
+}
+    
+.search {
+    margin: auto; 
+    margin-top: 12px;
+    padding:auto;
+    width: 575px;
+    height: 45px;
+    background-image: url(https://www.google.ca/webhp?hl=en&sa=X&ved=0ahUKEwif3cjO6rPUAhVo7YMKHcyBAV0QPAgD)
+    
+
+  
+    
+    
+}    
+
+input {
+    height: 45px;
+    width: 100%;
+    margin: auto;
+    
+    
+}
+
+.button {
+  background-color: #e7e7e7;
+    border: none;
+    color: black;
+    padding: 6px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 35px 2px 0px 150px;
+    width: 125px;
+    
+}
+
+.lucky {
+    background-color: #e7e7e7;
+    border: none;
+    color: black;
+    padding: 6px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 35px 150px 0px 15px;
+    width: 125px;
+    
+}
+
+.language {
+    margin-top: 100px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 14px;
+    
+    
+    
+}
+
+.container {
+    height: 45px;
+    width: 100%;
+    border: 1px solid #e4e4e4;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background-color:#f2f2f2;
+}
+
+.lleft {
+    height:30px;
+    width: 50%;
+    bottom: 0px;
+    left: 0px;
+    background-color: #f2f2f2;
+    z-index: 100;
+    position: fixed;
+    padding-top: 15px;
+    font-size: 16px;
+    word-spacing: 20px;
+    padding-left:20px;
+    
+    
+    
+}
+
+.lright {
+    height: 30px;
+    width: 50%;
+    background-color: #f2f2f2;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    padding-top: 15px;
+    Text-align: right;
+    font-size: 16px;
+    word-spacing: 20px;
+    padding-right: 20px;
+    
+    
+}
+
+a {
+    color: #4d4d4d;
+    text-decoration: none;
+    
+    
+}
+
+a.class1 {
+    color: blue;
+    
+    
+    
+    
+    
+}
